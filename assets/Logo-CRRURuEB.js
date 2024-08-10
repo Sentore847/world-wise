@@ -1,1 +1,0 @@
-import{j as o,L as s}from"./index-ButzjNnh.js";const l="_logo_7b2ls_1",t={logo:l};function r(){return o.jsx("div",{children:o.jsx(s,{to:"/",children:o.jsx("img",{src:"logo.png",alt:"WorldWise logo",className:t.logo})})})}export{r as L};
