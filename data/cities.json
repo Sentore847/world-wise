@@ -1,3 +1,16 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "id": "262e",
+      "cityName": "Beddes",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-10T22:52:56.279Z",
+      "notes": "ghjfgjh",
+      "position": {
+        "lat": 46.619261036171515,
+        "lng": 2.2192382812500004
+      }
+    }
+  ]
 }
