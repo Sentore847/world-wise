@@ -6,7 +6,7 @@ import {
   useReducer,
 } from "react";
 
-const BASE_URL = "https://cities-pl1j.onrender.com";
+const BASE_URL = "https://cities-pl1j.onrender.com/";
 
 const CitiesContext = createContext();
 
