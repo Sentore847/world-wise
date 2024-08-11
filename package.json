@@ -9,11 +9,7 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-<<<<<<< HEAD
-    "server": "json-server --watch cities.json --port 8000",
-=======
     "server": "json-server --watch data/cities.json --port 8000",
->>>>>>> b44208a545b8793b7eb5f5b2be5374ebe0c9e16c
     "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
